@@ -6,4 +6,4 @@ A medida que fui creciendo, cada vez me interesó más el mundo de la computaci�
 Me gusta aprender todo lo relacionado con la tecnología, y también disfruto mucho del fútbol.
 
 ## FOTO PARA QUE ME CONOZCAN 
-![Mi foto](foto presentacion.png)
+![Mi foto](foto%20presentacion.png)
